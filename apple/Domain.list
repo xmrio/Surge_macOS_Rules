@@ -1,16 +1,20 @@
-#domain-apple
-DOMAIN,swscan.apple.com
-DOMAIN,ocsp.apple.com
-DOMAIN,apsu.apple.com // tc update
-DOMAIN,setup.icloud.com
-DOMAIN,xp.apple.com
-DOMAIN,gsa.apple.com
-DOMAIN,gsas.apple.com
-DOMAIN,se.itunes.apple.com
-DOMAIN,sp.itunes.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,init.itunes.apple.com
-DOMAIN,audio.itunes.apple.com
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,beta.itunes.apple.com
-DOMAIN,osxapps.itunes.apple.com
+#for ATV
+
+USER-AGENT,encoretvb*,Proxy
+USER-AGENT,iCookTV,Proxy
+USER-AGENT,viutv-tvos,Proxy
+USER-AGENT,se.tv4.tv4play,Proxy
+USER-AGENT,Netflix*,Proxy
+USER-AGENT,Hong Kong Movie*,Proxy
+
+
+DOMAIN,gdmf.apple.com,Proxy // appletv update
+DOMAIN,bpapi.apple.com,Proxy // appletv update
+DOMAIN,appldnld.apple.com,Proxy // appletv update
+DOMAIN,lcdn-locator.apple.com, Apple Service
+DOMAIN,sylvan.apple.com,Proxy // appletv screen
+
+DOMAIN,i2.wp.com,Proxy
+DOMAIN,wstreamks.now.com,Proxy
+DOMAIN,mesu.apple.com,Proxy
+DOMAIN,api.viu.now.com,Proxy // viu
