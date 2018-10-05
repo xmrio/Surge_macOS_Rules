@@ -1,0 +1,16 @@
+#domain-apple
+DOMAIN,swscan.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,apsu.apple.com // tc update
+DOMAIN,setup.icloud.com
+DOMAIN,xp.apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,gsas.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,sp.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
