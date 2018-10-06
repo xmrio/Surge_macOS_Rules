@@ -23,10 +23,12 @@ DK-Proxy = DOMAIN-KEYWORD-Proxy
 
 #Apple
 D-AS = DOMAIN-Apple Service,
+D-D-AS = DOMAIN-DIRECT-Apple Service,
 DS-AS = DOMAIN-SUFFIX-Apple Service,
+DS-D-AS = DOMAIN-SUFFIX-DIRECT-Apple Service,
 DK-AS = DOMAIN-KEYWORD-Apple Service
 
-#IP-CIDR
+#IP-CIDRDS-DIRECT-AS
 CIDR-AS = IP-CIDR-Apple Service,
 CIDR-Proxy = IP-CIDR-Proxy,
 CIDR-REJECT = IP-CIDR-REJECT
