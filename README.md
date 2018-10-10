@@ -23,11 +23,15 @@ DK-Proxy = DOMAIN-KEYWORD-Proxy
 
 #IP-CIDR
 CIDR-AS = IP-CIDR-Apple Service,
-CIDR-NF = IP-CIDR-Netflix Service,
+CIDR-NS = IP-CIDR-Netflix Service,
 CIDR-Proxy = IP-CIDR-Proxy,
 CIDR-REJECT = IP-CIDR-REJECT
 
 #PROCESS-NAME
+PN-P-AS
+PN-P-NS
+
+
 PN-DIRECT = PROCESS-NAME-DIRECT,
 PN-Proxy = PROCESS-NAME-Proxy
 
@@ -44,10 +48,10 @@ DK-AS = DOMAIN-KEYWORD-Apple Service
 
 
 #Netflix
-
 DS-NS = DOMAIN-SUFFIX-Netflix Service,
 
-PN-P-NS = PROCESS-NAME-Proxy-Netflix Service
+PN-P-NS = PROCESS-NAME-Proxy-Netflix Service,
+DS-P-NS = OMAIN-SUFFIX-Proxy-Netflix Service,
 
 
 #Apple TV(tvOS)
