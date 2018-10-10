@@ -33,16 +33,21 @@ PN-Proxy = PROCESS-NAME-Proxy
 
 #其他分流项目
 #Apple(部分包含ATV流量分布)
+PN-P-AS = PROCESS-NAME-Proxy-Apple Service,
+
 D-AS = DOMAIN-Apple Service,
 D-D-AS = DOMAIN-DIRECT-Apple Service,
 DS-AS = DOMAIN-SUFFIX-Apple Service,
 DS-D-AS = DOMAIN-SUFFIX-DIRECT-Apple Service,
 DK-AS = DOMAIN-KEYWORD-Apple Service
-PN-Proxy-AS = PROCESS-NAME-Proxy-Apple Service
+
 
 
 #Netflix
-PN-Proxy-NF = PROCESS-NAME-Proxy-Netflix
+
+DS-NS = DOMAIN-SUFFIX-Netflix Service,
+
+PN-P-NS = PROCESS-NAME-Proxy-Netflix Service
 
 
 #Apple TV(tvOS)
