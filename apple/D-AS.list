@@ -13,3 +13,6 @@ DOMAIN,audio.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,beta.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
+
+#ATV
+DOMAIN,lcdn-locator.apple.com

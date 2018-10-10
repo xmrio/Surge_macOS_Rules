@@ -21,20 +21,34 @@ D-Proxy = DOMAIN-Proxy,
 DS-Proxy = DOMAIN-SUFFIX-Proxy,
 DK-Proxy = DOMAIN-KEYWORD-Proxy
 
-#Apple
+#IP-CIDR
+CIDR-AS = IP-CIDR-Apple Service,
+CIDR-NF = IP-CIDR-Netflix Service,
+CIDR-Proxy = IP-CIDR-Proxy,
+CIDR-REJECT = IP-CIDR-REJECT
+
+#PROCESS-NAME
+PN-DIRECT = PROCESS-NAME-DIRECT,
+PN-Proxy = PROCESS-NAME-Proxy
+
+#其他分流项目
+#Apple(部分包含ATV流量分布)
 D-AS = DOMAIN-Apple Service,
 D-D-AS = DOMAIN-DIRECT-Apple Service,
 DS-AS = DOMAIN-SUFFIX-Apple Service,
 DS-D-AS = DOMAIN-SUFFIX-DIRECT-Apple Service,
 DK-AS = DOMAIN-KEYWORD-Apple Service
 
-#IP-CIDR
-CIDR-AS = IP-CIDR-Apple Service,
-CIDR-NF = IP-CIDR-Netflix Service,
-CIDR-Proxy = IP-CIDR-Proxy,
-CIDR-REJECT = IP-CIDR-REJECT,
+#Netflix
 
-#PROCESS-NAME
-PN-DIRECT = PROCESS-NAME-DIRECT,
-PN-Proxy = PROCESS-NAME-Proxy
+#Apple TV(tvOS)
+
+D-D-ATV = DOMAIN-DIRECT #Apple TV
+D-P-ATV = DOMAIN-Proxy #Apple TV
+UA-D-ATV = USER-AGENT,DIRECT #Apple TV
+UA-P-ATV = USER-AGENT,Proxy #Apple TV
+
+
+
+
 ```
