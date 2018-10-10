@@ -1,0 +1,20 @@
+//ATV
+USER-AGENT,encoretvb*
+USER-AGENT,iCookTV
+USER-AGENT,viutv-tvos
+USER-AGENT,se.tv4.tv4play
+USER-AGENT,Netflix*
+
+//LINE & DECO
+USER-AGENT,LineDeco
+USER-AGENT,*Line*
+USER-AGENT,*LINE*
+USER-AGENT,*LI*
+USER-AGENT,aceApps*
+
+//macOS brew
+USER-AGENT,Homebrew*
+USER-AGENT,curl*
+
+//OneDrive
+USER-AGENT,OneDrive

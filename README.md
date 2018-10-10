@@ -38,8 +38,12 @@ D-D-AS = DOMAIN-DIRECT-Apple Service,
 DS-AS = DOMAIN-SUFFIX-Apple Service,
 DS-D-AS = DOMAIN-SUFFIX-DIRECT-Apple Service,
 DK-AS = DOMAIN-KEYWORD-Apple Service
+PN-Proxy-AS = PROCESS-NAME-Proxy-Apple Service
+
 
 #Netflix
+PN-Proxy-NF = PROCESS-NAME-Proxy-Netflix
+
 
 #Apple TV(tvOS)
 
