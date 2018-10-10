@@ -47,10 +47,15 @@ DK-AS = DOMAIN-KEYWORD-Apple Service
 
 
 #Netflix
-DS-NS = DOMAIN-SUFFIX-Netflix Service,
+D-P-NS = DOMAIN-Proxy-Netflix Service,
+DS-P-NS = DOMAIN-SUFFIX-Proxy-Netflix Service,
+DS-NS = DOMAIN-SUFFIX-Netflix Service
 
-PN-P-NS = PROCESS-NAME-Proxy-Netflix Service,
-DS-P-NS = OMAIN-SUFFIX-Proxy-Netflix Service,
+
+#User-Agent
+UA-D-ATV = USER-AGENT,DIRECT #Apple TV
+UA-P-ATV
+
 
 
 #Apple TV(tvOS)
