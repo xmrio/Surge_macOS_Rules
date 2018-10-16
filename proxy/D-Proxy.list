@@ -1,5 +1,3 @@
-#DOMAIN,ip111.cn //TEST
-
 #domain-proxy
 DOMAIN,app.adjust.com
 DOMAIN,api.weather.com
@@ -7,4 +5,7 @@ DOMAIN,dns.v2ex.com
 DOMAIN,api.weather.com
 
 DOMAIN,t.co
-DOMAIN,bit.ly,🇯🇵 JP-SERVER1
+DOMAIN,bit.ly
+
+DOMAIN,wl.dlservice.microsoft.com,force-remote-dns
+DOMAIN,officeclient.microsoft.com,force-remote-dns
