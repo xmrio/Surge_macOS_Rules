@@ -1,4 +1,4 @@
-DOMAIN,ip111.cn //TEST
+#DOMAIN,ip111.cn //TEST
 
 #domain-proxy
 DOMAIN,app.adjust.com
