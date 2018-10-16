@@ -1,3 +1,5 @@
+DOMAIN,ip111.cn,JP
+
 #domain-proxy
 DOMAIN,app.adjust.com
 DOMAIN,api.weather.com
@@ -5,4 +7,4 @@ DOMAIN,dns.v2ex.com
 DOMAIN,api.weather.com
 
 DOMAIN,t.co
-DOMAIN,bit.ly
+DOMAIN,bit.ly,🇯🇵 JP-SERVER1
