@@ -58,19 +58,6 @@ DS-P-NS = DOMAIN-SUFFIX-Proxy-Netflix Service
 P-P-BBC = Package-Proxy-BBC
 
 
-~~User-Agent~~
-~~UA-D-ATV = USER-AGENT,DIRECT #Apple TV
-UA-P-ATV~~
-
-
-
-#~~Apple TV(tvOS)~~
-
-~~D-D-ATV = DOMAIN-DIRECT #Apple TV
-D-P-ATV = DOMAIN-Proxy #Apple TV
-UA-D-ATV = USER-AGENT,DIRECT #Apple TV
-UA-P-ATV = USER-AGENT,Proxy #Apple TV~~
-
 
 
 
