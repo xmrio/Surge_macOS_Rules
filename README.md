@@ -2,7 +2,6 @@
 
 适配Surge 3.0,为方便更新,采用了模块规则,并优化了Dashboard的显示方式,方便查阅修改.
 
-
 如需要查阅对应的以下是缩写清单:
 
 ##DIRECT
@@ -34,6 +33,7 @@ PN-Proxy = PROCESS-NAME-Proxy,
 PN-REJECT = PROCESS-NAME-REJECT
 
 #其他分流项目
+
 ###Apple(部分包含ATV流量分布)
 
 
@@ -52,8 +52,7 @@ DS-NS = DOMAIN-SUFFIX-Netflix Service,
 DS-P-NS = DOMAIN-SUFFIX-Proxy-Netflix Service
 
 
-
-###烩菜Package
+##烩菜Package
 
 #####BBC
 P-P-BBC = Package-Proxy-BBC
