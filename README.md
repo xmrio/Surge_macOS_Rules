@@ -4,6 +4,7 @@
 
 如需要查阅对应的以下是缩写清单:
 
+```
 ##DIRECT
 D-DIRECT = DOMAIN-DIRECT,
 DS-DIRECT = DOMAIN-SUFFIX-DIRECT,
@@ -57,6 +58,7 @@ DS-P-NS = DOMAIN-SUFFIX-Proxy-Netflix Service
 #####BBC
 P-P-BBC = Package-Proxy-BBC
 
+```
 
 
 
