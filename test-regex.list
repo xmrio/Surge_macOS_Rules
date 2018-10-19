@@ -1,0 +1,2 @@
+URL-REGEX,http://ctrl.zmzapi.net\/app\/ads\?platform=.*, // 人人影视
+OR,((URL-REGEX,^http:\/\/cn2?.panel.qingjie.me:(16(80|90)|8888)\/.*), (URL-REGEX,^http:\/\/(hk|us).panel.qingjie.me:(16(80|90)|8888)\/.*)),DIRECT
