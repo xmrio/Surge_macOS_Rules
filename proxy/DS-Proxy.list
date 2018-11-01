@@ -1,7 +1,3 @@
-DOMAIN-SUFFIX,naver.jp
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,66.to
-
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,jp
@@ -3111,6 +3107,10 @@ DOMAIN-SUFFIX,zvereff.com
 DOMAIN-SUFFIX,zyzc9.com
 
 
+DOMAIN-SUFFIX,naver.jp
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,66.to
+
 #DOMAIN,www.paypalobjects.com
 #DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,enoctus.com
@@ -3147,7 +3147,6 @@ DOMAIN-SUFFIX,line-apps.com // NEW
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,pipe.aria.microsoft.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
 
 DOMAIN-SUFFIX,stashmedia.tv
 DOMAIN-SUFFIX,w.org
