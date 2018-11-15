@@ -9,3 +9,6 @@ DOMAIN,bit.ly
 
 DOMAIN,wl.dlservice.microsoft.com,force-remote-dns
 DOMAIN,officeclient.microsoft.com,force-remote-dns
+
+#JB
+DOMAIN,apt.thebigboss.org
