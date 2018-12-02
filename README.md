@@ -49,8 +49,8 @@ DK-AS = DOMAIN-KEYWORD-Apple Service
 
 ###Netflix
 D-P-NS = DOMAIN-Proxy-Netflix Service,
-DS-NS = DOMAIN-SUFFIX-Netflix Service,
-DS-P-NS = DOMAIN-SUFFIX-Proxy-Netflix Service
+DS-P-NS = DOMAIN-SUFFIX-Proxy-Netflix Service,
+DS-NS = DOMAIN-SUFFIX-Netflix Service
 
 
 ##烩菜Package
