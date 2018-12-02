@@ -228,3 +228,7 @@ DOMAIN,g.gridsum.com
 DOMAIN,recv-wd.gridsumdissector.com
 DOMAIN,static.gridsumdissector.com
 DOMAIN,syndication.streamads.yahoo.com
+
+//atv
+DOMAIN,txn.ingest.crittercism.com
+DOMAIN,appload.ingest.crittercism.com
