@@ -15,5 +15,8 @@ DOMAIN,beta.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
 
 #ATV
+DOMAIN,gdmf.apple.com // appletv update
+DOMAIN,bpapi.apple.com // appletv update
+DOMAIN,appldnld.apple.com // appletv update
+DOMAIN,sylvan.apple.com // appletv screen
 DOMAIN,lcdn-locator.apple.com
-DOMAIN,sylvan.apple.com
