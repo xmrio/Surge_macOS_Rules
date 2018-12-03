@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,co
 DOMAIN-SUFFIX,cc
 DOMAIN-SUFFIX,gl
 DOMAIN-SUFFIX,fr
-#
 DOMAIN-SUFFIX,0to255.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1024.inc.gs
@@ -1987,9 +1986,9 @@ DOMAIN-SUFFIX,prosiben.de
 DOMAIN-SUFFIX,provideocoalition.com
 DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,proxomitron.info
-DOMAIN-SUFFIX,proxy.org
-DOMAIN-SUFFIX,proxypy.net
-DOMAIN-SUFFIX,proxyroad.com
+DOMAIN-SUFFIX.org
+DOMAIN-SUFFIXpy.net
+DOMAIN-SUFFIXroad.com
 DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,psblog.name
 DOMAIN-SUFFIX,psiphon.ca
@@ -3174,9 +3173,3 @@ DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,hotcom-web.com
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,91porn.com
-
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwpltx.com
-DOMAIN-SUFFIX,jwplayer.com
-DOMAIN-SUFFIX,jwpsrv.com
