@@ -198,7 +198,7 @@ DOMAIN-SUFFIX,fastif.net
 DOMAIN-SUFFIX,fengniao.com
 DOMAIN-SUFFIX,fenzhi.com
 DOMAIN-SUFFIX,fhldns.com
-DOMAIN-SUFFIX,footprint.net
+#DOMAIN-SUFFIX,footprint.net
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,gaopeng.com
@@ -333,7 +333,7 @@ DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,obp.owind.com
 DOMAIN-SUFFIX,ocsp.startssl.com
 DOMAIN-SUFFIX,okbuy.com
-DOMAIN-SUFFIX,omtrdc.net
+#DOMAIN-SUFFIX,omtrdc.net //TEST
 DOMAIN-SUFFIX,noke.com
 DOMAIN-SUFFIX,onlinedown.net
 DOMAIN-SUFFIX,oopmei.com
