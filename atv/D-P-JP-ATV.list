@@ -3,4 +3,12 @@ DOMAIN,linear-abematv.akamaized.net
 DOMAIN,vod-abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,api.abema.io
+DOMAIN,api.bucketeer.jp
+DOMAIN,sy.ameblo.jp
 DOMAIN,license.abema.io
+DOMAIN,api.distill.io
+
+
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,abema.tv
