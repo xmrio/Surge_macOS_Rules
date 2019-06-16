@@ -81,7 +81,7 @@ DOMAIN,msg.video.qiyi.com
 DOMAIN,msg2.video.qiyi.com
 DOMAIN,eclick.baidu.com
 DOMAIN,entry.baidu.com
-DOMAIN,hm.baidu.com,DIRECT
+#DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,mobads.baidu.com
@@ -179,7 +179,7 @@ DOMAIN,ai0.pub.funshion.com,DIRECT
 DOMAIN,slb.gedawang.com
 DOMAIN,img.shentus.com
 DOMAIN,aos.prf.hn
-DOMAIN,c.duomai.com
+#DOMAIN,c.duomai.com
 DOMAIN,p.yiqifa.com
 DOMAIN,go.fcwr8.com
 DOMAIN,wm.makeding.com
