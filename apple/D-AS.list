@@ -13,6 +13,8 @@ DOMAIN,audio.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,beta.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
+DOMAIN,music.apple.com
+
 
 #ATV
 DOMAIN,gdmf.apple.com // appletv update
