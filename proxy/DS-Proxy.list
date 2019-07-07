@@ -3177,3 +3177,7 @@ DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwpltx.com
 DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,jwpsrv.com
+
+
+#Mikrotik
+DOMAIN-SUFFIX,mikrotik.com
