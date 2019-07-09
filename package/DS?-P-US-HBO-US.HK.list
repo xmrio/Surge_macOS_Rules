@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,boltdns.net
 
 #NOWE
 OR,((DOMAIN-SUFFIX,brightcove.net), (DOMAIN-SUFFIX,brightcove.com))
-OR,((DOMAIN-SUFFIX,nowe.com), (DOMAIN-SUFFIX,nowestatic.com), (DOMAIN,userstylesapi.com),, (DOMAIN,cdn.axis.nowe.com))
+OR,((DOMAIN-SUFFIX,nowe.com), (DOMAIN-SUFFIX,nowestatic.com), (DOMAIN,userstylesapi.com), (DOMAIN,cdn.axis.nowe.com))
 
 #FOX+
