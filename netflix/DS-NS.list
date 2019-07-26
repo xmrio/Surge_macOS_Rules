@@ -3,3 +3,7 @@ DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,tvb.com
+
+#kanmanhua
+DOMAIN-SUFFIX,hamreus.com
+DOMAIN-SUFFIX,manhuagui.com
