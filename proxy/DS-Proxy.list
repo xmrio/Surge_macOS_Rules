@@ -3189,3 +3189,5 @@ DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,mikrotik.com
 #atom
 DOMAIN-SUFFIX,atom.io
+#ONEDRIVE
+DOMAIN-SUFFIX,sharepoint.com
