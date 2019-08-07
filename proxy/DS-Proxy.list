@@ -2736,6 +2736,7 @@ DOMAIN-SUFFIX,uyghurpress.com
 DOMAIN-SUFFIX,uygur.fc2web.com
 DOMAIN-SUFFIX,uygur.org
 DOMAIN-SUFFIX,uymaarip.com
+DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,v-state.org
 DOMAIN-SUFFIX,v70.us
 DOMAIN-SUFFIX,v7976888.info
@@ -3170,7 +3171,7 @@ DOMAIN-SUFFIX,voagd.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,voatibetan.com
 DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,amazonaws.com
+#DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,pinterest.com

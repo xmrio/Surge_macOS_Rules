@@ -162,7 +162,7 @@ DOMAIN,global.adserver.yahoo.com
 DOMAIN,init.icloud-analysis.com
 DOMAIN,zhihu-analytics.zhihu.com
 DOMAIN,log.cmbchina.com
-DOMAIN,api.segment.io
+#DOMAIN,api.segment.io
 DOMAIN,api.instabug.com
 DOMAIN,adlog.flurry.com
 DOMAIN,ads.flurry.com
