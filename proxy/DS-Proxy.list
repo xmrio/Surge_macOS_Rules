@@ -3192,3 +3192,5 @@ DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,atom.io
 #ONEDRIVE
 DOMAIN-SUFFIX,sharepoint.com
+#distill.io
+DOMAIN-SUFFIX,distill.io
