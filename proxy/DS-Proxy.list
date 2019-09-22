@@ -3194,3 +3194,8 @@ DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,sharepoint.com
 #distill.io
 DOMAIN-SUFFIX,distill.io
+#Discord
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.net
