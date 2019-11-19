@@ -588,7 +588,7 @@ DOMAIN-SUFFIX,dfanning.com
 DOMAIN-SUFFIX,dfas.mil
 DOMAIN-SUFFIX,dharamsalanet.com
 DOMAIN-SUFFIX,diaoyuislands.org
-DOMAIN-SUFFIX,digicert.com
+#DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digiland.tw
 DOMAIN-SUFFIX,digitalnomadsproject.org
 DOMAIN-SUFFIX,digitalocean.com
@@ -1791,7 +1791,7 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,oasic.net
 DOMAIN-SUFFIX,oclp.hk
-DOMAIN-SUFFIX,ocsp.digicert.com
+#DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,october-review.org
 DOMAIN-SUFFIX,officeoftibet.com
 DOMAIN-SUFFIX,ogaoga.org

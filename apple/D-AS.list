@@ -1,6 +1,5 @@
 DOMAIN,apps.apple.com // iTunes App
 DOMAIN,swscan.apple.com
-DOMAIN,ocsp.apple.com
 DOMAIN,apsu.apple.com // tc update
 DOMAIN,setup.icloud.com
 DOMAIN,xp.apple.com

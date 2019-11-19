@@ -5,3 +5,13 @@ DOMAIN,mdap.alipaylog.com
 DOMAIN,api.mixpanel.com
 DOMAIN,d2pur3iezf4d1j.cloudfront.net
 DOMAIN,ip.istatmenus.app
+DOMAIN,crl.apple.com
+DOMAIN,crl.entrust.net
+DOMAIN,crl3.digicert.com
+DOMAIN,crl4.digicert.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp.digicert.com
+DOMAIN,ocsp.entrust.net
+DOMAIN,ocsp.verisign.net
+DOMAIN,ocsp2.globalsign.com
+DOMAIN,ocsp.globalsign.com
